@@ -2,7 +2,7 @@
 
 The document is intended for anyone wanting to contribute to the server code in the FLOM project.
 It describes the basic setup and architecture of the server, how communication works, and helpful implementation details.
-
+#hi
 # Server architecture
 The FLOM server is a fairly simple `Express` server application written in `nodejs`.
 It acts as both the client application server, serving the application resources, and the API server, handling REST requests from the client application. 
